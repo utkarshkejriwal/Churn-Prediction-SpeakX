@@ -26,10 +26,6 @@ A total of 720 (144*5) fits were checked to provide the best parameters for this
 
 ### Model Evaluation
 A confusion matrix is created to better understand the output received using this Machine Learning model.
-The matrix is as follows - 
-          Pred 0    Pred 1
-Actual 0    943       88
-Actual 1    183      193
 
 Accuracy - 80.74%
 Recall - 51.33%
